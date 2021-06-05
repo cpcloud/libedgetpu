@@ -1,2 +1,6 @@
 bazel-*
 out/
+a.out
+result
+.direnv
+.ccls-cache
