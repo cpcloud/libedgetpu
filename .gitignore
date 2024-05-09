@@ -2,3 +2,7 @@ bazel-*
 out/
 dist/
 .DS_Store
+a.out
+result
+.direnv
+.ccls-cache

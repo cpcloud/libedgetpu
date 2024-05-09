@@ -1,0 +1,14 @@
+{
+    "nixpkgs": {
+        "branch": "tensorflow-lite-flatbuffers2",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "cpcloud",
+        "repo": "nixpkgs",
+        "rev": "178e269079307f34d529a5a9f33a41b482b1d0e1",
+        "sha256": "1fwwp2rnbanag4vnw0n3zg07jzf6zzgr9akd0maxxnkzmdq3fych",
+        "type": "tarball",
+        "url": "https://github.com/cpcloud/nixpkgs/archive/178e269079307f34d529a5a9f33a41b482b1d0e1.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
